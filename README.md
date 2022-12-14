@@ -1,6 +1,7 @@
-# collaborative_working
+# AtLAST Solar Working Group 
 
-This is a template work space for AtLAST working group collaboration.
+The purpose of this space it to track the work being done towards refining the solar science cases for the AtLAST telescope design study.
+
 
 ## Checklist for using this space:
 1) If you do not have a GitHub account, you will need to make one: https://github.com/join
